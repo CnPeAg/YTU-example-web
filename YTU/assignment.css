@@ -1,0 +1,11 @@
+.div1{
+    background-color: red;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    height: 2px;
+}
+.fontstyle{
+    text-align: right;
+    height: 10%;
+}
